@@ -1,0 +1,172 @@
+body {
+    background-color: black;
+    font-size: 100%;
+
+}
+
+#dis {
+    top: 135%;
+    left: 50%;
+    position: absolute;
+    color: #757575;
+}
+
+#dis:hover {
+    color: whitesmoke;
+}
+
+
+h1 {
+    /*  letter-spacing: 2px;*/
+    color: white;
+    font-size: 10em;
+    line-height: 0.9;
+    margin-top: 0.5em;
+    position: relative;
+    top: 20%;
+    right: 10%;
+    font-family: 'Roboto Slab', serif;
+
+}
+
+
+#we {
+    color: #9e9e9e;
+    top: 15%;
+    position: relative;
+right: 10%;
+
+}
+
+
+.color {
+    color: deeppink;
+    font-weight: 900;
+}
+a {
+
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+a:hover {
+
+    color: deeppink;
+    text-decoration: none;
+
+}
+
+
+nav {
+    float: right;
+    padding: 20px;
+}
+
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    float: left;
+    padding: 10px
+}
+
+#ken {
+    
+    color: white;
+   width: 15%;
+    height: 10%;
+    bottom: -300px;
+    left: 15%;
+    line-height: 28px;
+    -ms-transform: rotate(270deg);
+    /* IE 9 */
+    -moz-transform: rotate(270deg);
+    /* Firefox */
+    -webkit-transform: rotate(270deg);
+    /* Safari and Chrome */
+    -o-transform: rotate(270deg);
+    /* Opera */
+}
+
+@media (max-width: 575px){
+  h1 {
+          font-size: 2em;
+        line-height: 1;
+    position: relative;
+      left: 10%;
+      top: 20%;
+      }
+    #we{
+        font-size: 0.7em;
+        left: 10%;
+        top: 40%;
+    }
+    #dis{
+        font-size: 0.7em;
+         position: absolute;
+            top: 20%;
+            left: 25%;
+    }
+   
+}
+@media(max-width:767px)
+{
+    h1{
+         font-size: 3.5em;
+        line-height: 1;
+        position: relative;
+      right: 40%;
+      top: 50%; 
+    }
+    #we{
+        font-size: 0.8em;
+        right: 40%;
+        top: 55%;
+    }
+    #dis{
+        font-size: 0.7em;
+            top: 200%;
+            left: 1%;
+    }
+    
+}
+
+@media(max-width:991px){
+    h1{
+         font-size: 4em;
+        line-height: 1;
+      right: 40%;
+      top: 100%; 
+        
+    }
+    #we{
+        font-size: 1em;
+        right: 40%;
+        top: 85%;
+    }
+    #dis{
+        font-size: 0.7em;
+            top: 230%;
+            left: 1%;
+    }
+}
+@media(max-width:1199px){
+    h1{ font-size: 4em;
+        line-height: 1em;
+        top: 150%;
+    }
+    #we{
+        top: 140%;
+        font-size: 1.2em;
+    }
+    #dis{
+        top:275%;
+        left: 15%;
+        font-size: 0.6em;
+    }
+}
