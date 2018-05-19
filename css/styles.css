@@ -13,6 +13,7 @@ body {
 
 #dis:hover {
     color: whitesmoke;
+
 }
 
 
@@ -43,55 +44,11 @@ right: 10%;
     color: deeppink;
     font-weight: 900;
 }
-a {
-
-    color: #fff;
-    text-decoration: none;
-    font-weight: bold;
-
-}
-
-a:hover {
-
-    color: deeppink;
-    text-decoration: none;
-
-}
 
 
-nav {
-    float: right;
-    padding: 20px;
-}
 
 
-ul {
-    list-style: none;
-}
 
-li {
-    display: inline-block;
-    float: left;
-    padding: 10px
-}
-
-#ken {
-    
-    color: white;
-   width: 15%;
-    height: 10%;
-    bottom: -300px;
-    left: 15%;
-    line-height: 28px;
-    -ms-transform: rotate(270deg);
-    /* IE 9 */
-    -moz-transform: rotate(270deg);
-    /* Firefox */
-    -webkit-transform: rotate(270deg);
-    /* Safari and Chrome */
-    -o-transform: rotate(270deg);
-    /* Opera */
-}
 
 @media (max-width: 575px){
   h1 {
@@ -99,7 +56,7 @@ li {
         line-height: 1;
     position: relative;
       left: 10%;
-      top: 20%;
+      top: 40%;
       }
     #we{
         font-size: 0.7em;
@@ -110,7 +67,7 @@ li {
         font-size: 0.7em;
          position: absolute;
             top: 20%;
-            left: 25%;
+            left: 35%;
     }
    
 }
