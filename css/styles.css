@@ -8,11 +8,12 @@ body {
     top: 135%;
     left: 50%;
     position: absolute;
-    color: #757575;
+   color: whitesmoke;
 }
 
 #dis:hover {
-    color: whitesmoke;
+
+     color: #757575;
 
 }
 
