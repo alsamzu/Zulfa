@@ -16,8 +16,6 @@ body {
     color: #757575;
 
 }
-
-
 h1 {
     /*  letter-spacing: 2px;*/
     color: white;
@@ -74,16 +72,13 @@ h1 {
         font-size: 3.5em;
         line-height: 1;
         position: relative;
-<<<<<<< HEAD
+
         right: 40%;
         top: 50%;
-=======
-      right: 40%;
-      top: 50%;
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
->>>>>>> origin/master
+
+        right: 40%;
+        top: 50%;
+
     }
     #we {
         font-size: 0.8em;
@@ -102,17 +97,11 @@ h1 {
     h1 {
         font-size: 4em;
         line-height: 1;
-<<<<<<< HEAD
-        right: 40%;
+        <<<<<<< HEAD right: 40%;
         top: 100%;
-=======
-      right: 40%;
-      top: 100%;
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
->>>>>>> origin/master
-
+        =======right: 40%;
+        top: 100%;
+        <<<<<<< HEAD > > > > > > > origin/master======= > > > > > > > origin/master
     }
     #we {
         font-size: 1em;
@@ -143,7 +132,7 @@ h1 {
     }
 }
 
-li{
+li {
     padding: 10px;
     text-decoration: none;
 
