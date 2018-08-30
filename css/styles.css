@@ -127,4 +127,14 @@ li {
 
 #socialicons{
     padding-top: 0;
+
+}
+.codrops-header{
+    padding-bottom: 0;
+}
+.fa{
+    color: #fafafa;
+}
+.fa:hover{
+    color: #f50057;
 }
