@@ -66,7 +66,7 @@ h1 {
         font-size: 3.5em;
         line-height: 1;
         position: relative;
-         right: 40%;
+        right: 40%;
         top: 50%;
 
     }
@@ -87,7 +87,7 @@ h1 {
     h1 {
         font-size: 4em;
         line-height: 1;
-       right: 40%;
+        right: 40%;
         top: 100%;
     }
     #we {
@@ -125,16 +125,19 @@ li {
 
 }
 
-#socialicons{
+#socialicons {
     padding-top: 0;
 
 }
-.codrops-header{
+
+.codrops-header {
     padding-bottom: 0;
 }
-.fa{
+
+.fa {
     color: #fafafa;
 }
-.fa:hover{
+
+.fa:hover {
     color: #f50057;
 }
