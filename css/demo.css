@@ -92,4 +92,8 @@ button:focus {
 #arrow{
     animation-duration: 1s;
     animation-delay: 4s;
+    color: #bdbdbd;
+}
+#arrow:hover{
+    color: #f50057;
 }

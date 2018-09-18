@@ -41,7 +41,7 @@ h1 {
 
 @media (max-width: 575px) {
     h1 {
-        font-size: 2em;
+        font-size: 3em;
         line-height: 1;
         position: relative;
         left: 10%;
@@ -146,6 +146,7 @@ li {
 #head {
     font-family: 'Roboto', sans-serif;
 }
+
 
 /*Preloader css*/
 #loader-wrapper {
